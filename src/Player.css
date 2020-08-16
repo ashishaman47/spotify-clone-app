@@ -1,0 +1,10 @@
+.player {
+  display: flex;
+  flex-direction: column;
+}
+
+/* display --> flex (is next to each other) */
+.player__body {
+  display: flex;
+  flex-grow: 1;
+}
