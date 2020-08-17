@@ -4,7 +4,7 @@
 export const authEndpoint = 'https://accounts.spotify.com/authorize';
 
 //as soon user get login it's gonna bring user back to home page of app
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://spotify-clone-668e7.web.app/';
 
 // Steps:
 // 1. click LOGIN button
